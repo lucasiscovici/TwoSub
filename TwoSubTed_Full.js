@@ -1,4 +1,4 @@
-
+//® Lucas Iscovici - luluisco@yahoo.fr
 (function() {
 
  	 window.loadScripts = function(f,comp) {
